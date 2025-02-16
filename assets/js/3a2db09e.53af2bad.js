@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_temp=self.webpackChunkmy_website_temp||[]).push([[121],{8070:e=>{e.exports=JSON.parse('{"tags":[{"label":"kubernetes","permalink":"/blog/tags/kubernetes","count":1},{"label":"paper","permalink":"/blog/tags/paper","count":1}]}')}}]);

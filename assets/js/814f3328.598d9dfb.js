@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website_temp=self.webpackChunkmy_website_temp||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"[\u7ffb\u8bd1] Autopilot: Workload Autoscaling at Google Scale","permalink":"/blog/kubernetes-autopilot-google","unlisted":false,"date":"2022-02-01T00:00:00.000Z"}]}')}}]);
